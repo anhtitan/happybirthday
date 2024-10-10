@@ -241,7 +241,7 @@ body {
 }
 .right .box__account{
     position: relative;
-    transform: translateY(800px);
+    transform: translateY(850px);
     animation: topBoxImage 7s 7s forwards ease-in;
 }
 @keyframes topBoxImage{
@@ -796,6 +796,7 @@ body {
         display: flex;
         justify-content: center;
         align-items: center;
+        width: 30%;
     }
     .content__letter .left .heart_2{
         top: 50px;
@@ -809,7 +810,7 @@ body {
         right: 15px;
     }
     .content__letter .right .love__img.animationOp img{
-        width: 110px;
+        width: 150px;
     }
     .text__letter{
         margin-top: 0px!important;

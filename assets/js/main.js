@@ -74,7 +74,7 @@ let love = setInterval(function () {
 }, 500);
 
 let datetxt = "14 - 10 - 2001";
-let datatxtletter = "Chúc mừng sinh nhật em 🎂❤️. \n  Cảm ơn em đã đến bên anh và làm cuộc sống này trở nên tuyệt vời hơn. Anh chúc em luôn xinh đẹp, hạnh phúc và đạt được mọi ước mơ mà em mong muốn nhé. Anh sẽ luôn ở đây, yêu thương và đồng hành cùng em trong mọi hành trình. Yêu em rất nhiều, chúc em một ngày sinh nhật thật trọn vẹn và ngọt ngào!";
+let datatxtletter = "Chúc mừng sinh nhật em 🎂❤️. \n  Cảm ơn em đã đến bên anh và làm cuộc sống này trở nên tuyệt vời hơn. Anh chúc em luôn xinh đẹp, hạnh phúc, thành công trong công việc và đạt được mọi ước mơ mà em mong muốn nhé. Anh sẽ luôn ở đây, yêu thương và đồng hành cùng em trong mọi hành trình. Yêu em rất nhiều!";
 let titleLetter = "Gửi em";
 let charArrDate = datetxt.split("");
 let charArrDateLetter = datatxtletter.split("");
